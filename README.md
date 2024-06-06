@@ -1,4 +1,6 @@
- ![alt text](image.png)
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/Customer-Churn.jpeg" alt="Bubble Chart" width="600" height="400">
+</div>
 
 # Telecom Customer Churn Prediction
 
@@ -26,7 +28,7 @@ Base Logistic Regression Model is the best tool for predicting customer behavior
 That is also proven by the best ROC-curve.
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="images/ROC_Curve.png" alt="Bubble Chart" width="600" height="400">
+    <img src="images/Curve.jpeg" alt="Bubble Chart" width="600" height="400">
 </div>
 <br>
 <br>
