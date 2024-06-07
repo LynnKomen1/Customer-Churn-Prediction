@@ -24,8 +24,7 @@ This project uses Logistic Regressions, Decision Trees and RandomForest Models.
  
 ## Results
 
-Base Logistic Regression Model is the best tool for predicting customer behavior, especially with a fantastic F1 score.  
-That is also proven by the best ROC-curve.
+Base Logistic Regression Model is the best tool for predicting customer behavior.It has the best ROC curve.
 
 <div style="text-align: center;" style="border: 2px solid black;">
     <img src="images/Curve.jpeg" alt="Bubble Chart" width="600" height="400">
@@ -61,7 +60,7 @@ The best model, is the Decision Tree Model with an accuracy of  82.4% accuracy. 
  
 
 ## Appendix
-The complete analysis can be found in the <a href="Telecom-Churn.ipynb">Jupyter Notebook</a> and in our <a href="Presentation.pdf">presentation</a>.
+The complete analysis can be found in the <a href="Telecom-Churn.ipynb">Jupyter Notebook</a> and in my <a href="Presentation.pdf">presentation.pdf</a>.
 
 ## Sources
 
