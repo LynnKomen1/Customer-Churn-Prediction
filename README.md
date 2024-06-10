@@ -1,6 +1,5 @@
 <div style="text-align: center;" style="border: 2px solid black;">
     <img src="images/Customer-Churn.jpeg" alt="Bubble Chart" width="600" height="400">
-</div>
 
 # Telecom Customer Churn Prediction
 
@@ -27,14 +26,14 @@ This project uses Logistic Regressions, Decision Trees and RandomForest Models.
 Base Logistic Regression Model is the best tool for predicting customer behavior.It has the best ROC curve.
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="images/Curve.jpeg" alt="Bubble Chart" width="600" height="400">
+    <img src="images/image.png" alt="Bubble Chart" width="600" height="400">
 </div>
 <br>
 <br>
 The important features that informed this model were if clients had an international plan, how many minutes they talked on the phone during the day, and how many calls they made to customer service.  
  
  ## Conclusions
-The best model, is the Decision Tree Model with an accuracy of  82.4% accuracy. The most influential features were whether the client had an internal plan, the total minutes talked during the day, and the number of customer service calls. These features significantly contributed to the model's predictive power and overall performance
+The best model, is the Random Forest with an accuracy of  80.4% accuracy. The most influential features were whether the client had an internal plan, the total minutes talked during the day, and the number of customer service calls. These features significantly contributed to the model's predictive power and overall performance
 
 ## Recommendations
 - Focus marketing efforts on clients with internal plans to increase retention and satisfaction through 
@@ -67,4 +66,4 @@ The complete analysis can be found in the <a href="Telecom-Churn.ipynb">Jupyter 
 <a href="https://www.kaggle.com/becksddf/churn-in-telecoms-dataset">The Dataset </a>
 
 └── presentation.pdf
-
+ 
